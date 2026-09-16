@@ -14,6 +14,6 @@ Ruta de archivos del proyecto
 ## Aspectos a mejorar
 
 - ~~No cargar todo en la vram directamente, si no pinnear memoria para que la carga sea dinamica.~~
-- Aumento del dataset de entrenamiento.
+- ~~poner un .gitignore y eliminar las imagenes, si quieres el dataset se genera. No hace falta subirlo a github si la generación es rápida.~~
 - Reducción del overfitting.
-- poner un .gitignore y eliminar las imagenes, si quieres el dataset se genera. No hace falta subirlo a github si la generación es rápida.
+- Aumento del dataset de entrenamiento.
