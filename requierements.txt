@@ -1,0 +1,12 @@
+captcha
+kagglehub
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+scikit-learn
+torch
+torchvision
+tqdm
+ultralytics
